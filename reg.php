@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html  >
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.9.18, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-nam-128x148-1.png" type="image/x-icon">
+  <meta name="description" content="The N.A.M Higher secondary school Peringathur Library">
+  
+  
+  <title>Login Now!</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/parallax/jarallax.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@400;700&display=swap&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@400;700&display=swap&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=qyAhim"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=qyAhim" type="text/css">
+
+  
+  
+  
+</head>
+<body>
+  
+  <section data-bs-version="5.1" class="menu menu2 cid-ufArGLH930" once="menu" id="menu02-0">
+	
+
+	<nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+		<div class="container">
+			<div class="navbar-brand">
+				<span class="navbar-logo">
+					<a href="https://mobiri.se">
+						<img src="assets/images/logo-nam-206x239.png" alt="NAM Higher Secondary School" style="height: 4.3rem;">
+					</a>
+				</span>
+				<span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="https://mobiri.se">N A M Higher Secondary School</a></span>
+			</div>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<div class="hamburger">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+						<a class="nav-link link text-black display-4" href="https://mobiri.se">&nbsp; &nbsp;</a>
+					</li></ul>
+				
+				
+			</div>
+		</div>
+	</nav>
+</section>
+
+<section data-bs-version="5.1" class="header18 cid-ufArGN2Kax mbr-fullscreen mbr-parallax-background" id="header18-1">
+  
+
+  <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="content-wrap col-12 col-md-12">
+        <h1 class="mbr-section-title mbr-fonts-style mbr-white mb-4 display-1">LOGIN<br><br><br><br></h1>
+        
+        <p class="mbr-fonts-style mbr-text mbr-white mb-4 display-7">&nbsp; &nbsp;</p>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="social05 cid-ufArGSFGkl" id="social05-7">
+    
+
+    
+
+    <div class="container">
+        <div class="row">
+            <h3 class="mbr-section-title align-center mb-5 mbr-fonts-style display-2">
+                <strong>Stay Connected with Us</strong>
+            </h3>
+            <div class="col-12">
+                <div class="social-row">
+                    <div class="soc-item">
+                        <a href="https://www.facebook.com/profile.php?id=100006242538516/" target="_blank">
+                            <span class="mbr-iconfont socicon-facebook socicon" style="color: rgb(12, 44, 104); fill: rgb(12, 44, 104);"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon-twitter socicon"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon-instagram socicon"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon socicon-linkedin"></span>
+                        </a>
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://mobiri.se/" target="_blank">
+                            <span class="mbr-iconfont socicon socicon-twitch"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="footer4 cid-ufArGTlTVa" once="footers" id="footer04-8">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">© Zain Codes NAM Higher Secondary School Peringathur</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mobicms_page cid-ufAwiLa8wL" id="dynamicpage-a">
+
+     
+    <div class="container">
+<div>
+    <div>
+  <h2><strong>MobiCMS v1.2.0</strong></h2>
+    <p>This is MobiCMS Dynamic page loader block. There three option to choose on the&nbsp;Page Name Access Type and they are explained below:<br><strong><br></strong><br><strong>EXTERNAL PAGE NAME:</strong>&nbsp;if you want to create a Dynamic url page that you can control true the url query variable called <strong>"pagename"</strong><br><strong>INTERNAL PAGE NAME :</strong> if you just want to create a Static url page but dynamic page content<br><strong>ADVANCE PHP EMBED PAGE:&nbsp;</strong>if you want to create an embedded Dynamic url page that you can control true the url query variable called <strong>"pagename"</strong>, with dynamic page title and description.(This option required that you have to change some static page value to Mobims dynamic content). And to have a dynamic page setup, following below instructions strictly.<br><br>1. Change your page extension from <strong>.html</strong> to <strong>.php</strong><br>2. paste this code&nbsp;&nbsp;<strong>&lt;?php&nbsp; include "mobicms/before_html_tag.php";?&gt;</strong> on the page Before&nbsp; &lt;!DOCTYPE&gt;, &lt;html&gt; and &lt;head&gt; tag<br>3. paste this code&nbsp;&nbsp;<strong>&lt;?php&nbsp; echo $title;?&gt; </strong>on the Page Title tag<br>4. paste this code&nbsp;&nbsp;<strong>&lt;?php&nbsp; echo $description;?&gt; </strong>on the Page Description tag<br>5. Finally Some 3rd party code editor escape <strong>&lt;?php to&nbsp;&lt;!--?php</strong> and <strong>?&gt; to ?--&gt;</strong> as Mobicms is built upon <strong>PHP</strong> therefore making it impossible for Mobicms to load your dynamic page content from the database. <br><strong>Solution is:</strong> After publishing your website and you noticed that your backend page is not showing up, look on the page source code, with any editor(Notepad ++ Preferably)&nbsp; for escaped code&nbsp;which should be on same line&nbsp;<strong>&lt;!--?php</strong>&nbsp;should be change to <strong>&lt;?php</strong> and&nbsp;<strong>?--&gt;</strong>&nbsp;to <strong>?&gt;</strong> and the issue will be fixed</p>
+        <p><strong>Note:</strong> You will have to disable this notice through the settings Cog before publishing your website to remove this information from your page<br><strong>Also note:</strong>&nbsp;that&nbsp; you can access Mobicms Backend after publish via <strong>www.yourdomain.com/mobicms </strong>and also you will need a php supported server&nbsp; version 5.4 and above to use mobicms backend extension.</p>
+    </div>
+
+ </div>
+ <div class="loading py-5" id="loading">
+  <div class="box">
+          <span></span> <span></span> <span></span> <span></span> <span></span> 
+     </div>
+ </div>
+ 
+ <div class="pagecontent pagename" style="" id="pagecontent" data-page="about">
+ </div>
+ 
+ </div>
+ 
+  
+  
+</body>
+</html>
